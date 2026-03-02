@@ -1,1 +1,1 @@
-Some text for feature added. 
+Some text for feature added. Some more text for text.txt. 
